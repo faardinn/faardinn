@@ -7,7 +7,7 @@
 ## 📌 About Me
 I'm a first-year Computer Science student at the University of South Wales.  
 Passionate about technology, artificial intelligence, and methodically building software as I learn.  
-My goal is to become a Data Scientist and use my skills to solve real-world problems.
+My long term goal is to become a Data Scientist and use my skills to solve real-world problems.
 
 ---
 
