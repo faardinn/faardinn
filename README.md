@@ -36,7 +36,7 @@ My long term goal is to become a Data Scientist and use my skills to solve real-
 
 ## 🚀 Projects I’ve Completed So Far
 
-#### C++ Small Programs
+#### Small Programs in C++:
 As part of my programming assessment, I have created various beginner-level programs in C++ which has strengthen my understanding and logic. These include:
 1. **Monthly Income:** Calculates monthly income with breakdowns for basic pay, bonuses, and allowances.
 2. **Height in Meters:** Converts user height from feet and inches to meters.
