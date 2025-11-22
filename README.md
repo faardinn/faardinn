@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Md Fardin Ahmed Fahim
-### BSc (Hons) Computer Science | University of South Wales  
-### Aspiring Data Scientist
+### Computer Science student @USW | Aspiring Data Scientist
+
 
 ---
 
