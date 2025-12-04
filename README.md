@@ -24,7 +24,7 @@ My long term goal is to become a Data Scientist and use my skills to solve real-
 **Languages:**  
 - C++ (Beginner)  
 - Python (Beginner)  
-- HTML & CSS (Basic)
+- HTML & CSS (Beginner)
 
 **Tools:**  
 - Git  
