@@ -39,16 +39,16 @@ My long term goal is to become a Data Scientist and use my skills to solve real-
 #### Ongoing C++ Programs:
 I am currently working on a series of small C++ programs to deepen my understanding of functions, classes, arrays, and basic data structures as part of my upcoming programming assessment. 
 These include:
-1. **Average Speed:** Calculates travel speed using distance and time inputs.
-2. **Winning Division:** Compares four regional sales figures and identifies the top performer.
-3. **Time:** Builds a 24-hour clock class, converts to 12-hour format, and outputs greetings.
-4. **Student Performance Class:** Combines academic and activity scores to compute a final grade.
-5. **Grade Analysis:** Maps numeric scores into grade bands and provides simple statistics.
-6. **Index of Smallest Number:** Finds and returns the index of the smallest value in an array.
-7. **Number of Occurrences:** Counts how many times each value appears in a list.
-8. **Lottery Winners:** Compares user ticket numbers with winning numbers to detect winners.
-9. **Test Scores #1:** Reads test scores from input and calculates their average.
-10.**Test Scores #2:** Extends score processing with grade classification based on average.
+1.  **Average Speed:** Calculates travel speed using distance and time inputs.
+2.  **Winning Division:** Compares four regional sales figures and identifies the top performer.
+3.  **Time:** Builds a 24-hour clock class, converts to 12-hour format, and outputs greetings.
+4.  **Student Performance Class:** Combines academic and activity scores to compute a final grade.
+5.  **Grade Analysis:** Maps numeric scores into grade bands and provides simple statistics.
+6.  **Index of Smallest Number:** Finds and returns the index of the smallest value in an array.
+7.  **Number of Occurrences:** Counts how many times each value appears in a list.
+8.  **Lottery Winners:** Compares user ticket numbers with winning numbers to detect winners.
+9.  **Test Scores #1:** Reads test scores from input and calculates their average.
+10. **Test Scores #2:** Extends score processing with grade classification based on average.
 
 ---
 
