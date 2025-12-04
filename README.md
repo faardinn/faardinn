@@ -50,7 +50,6 @@ These include:
 9. **Test Scores #1:** Reads test scores from input and calculates their average.
 10.**Test Scores #2:** Extends score processing with grade classification based on average.
 
-
 ---
 
 ## 🚀 Projects I’ve Completed So Far
