@@ -13,7 +13,7 @@ My long term goal is to become a Data Scientist and use my skills to solve real-
 
 ## 📚 What I’m Doing Right Now
 - Learning programming fundamentals in C++
-- Building a foundation in variables, loops, functions, and I/O
+- Building a foundation in variables, loops, functions, I/O,  classes, arrays & data structures
 - Using Git and GitHub for version control
 - Exploring web technologies (HTML, CSS)
 - Creating small projects to develop problem-solving skills
